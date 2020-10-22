@@ -54,8 +54,10 @@ dependencies {
     api 'com.google.code.gson:gson:2.8.5'
 
     // 黄油刀
-    api 'com.jakewharton:butterknife:9.0.0-SNAPSHOT'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:9.0.0-SNAPSHOT'
+//    api 'com.jakewharton:butterknife:9.0.0-SNAPSHOT'
+//    annotationProcessor 'com.jakewharton:butterknife-compiler:9.0.0-SNAPSHOT'
+    api 'com.jakewharton:butterknife:8.4.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
     // Log、吐司打印
     api 'com.hjq:toast:6.0'
     api 'com.fasterxml.jackson.core:jackson-databind:2.9.9.1'
